@@ -1,7 +1,0 @@
-.env
-index/
-data/*.pdf
-eval/result.csv
-__pycache__/
-*.pyc
-.venv/
